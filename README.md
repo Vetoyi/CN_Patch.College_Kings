@@ -12,7 +12,7 @@
 ***
 
 # :o:补丁介绍
-本补丁汉化范围为Season1全内容([ACT 1](https://store.steampowered.com/app/1463120)，[ACT 2](https://store.steampowered.com/app/1624520)，[ACT 3](https://store.steampowered.com/app/1732640))]
+本补丁汉化范围为Season1全内容([College Kings - Act I](https://store.steampowered.com/app/1463120)，[College Kings - Act II](https://store.steampowered.com/app/1624520)，[College Kings - Act III](https://store.steampowered.com/app/1732640))
 <br>Season1汉化文件取自
 <br><br><br>
 **:heavy_check_mark:解锁Steam成就**
