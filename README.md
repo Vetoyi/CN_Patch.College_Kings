@@ -7,13 +7,13 @@
 ***
 
 # :o:前言
-> 
+> 这绝对算得上我最不想发的汉化补丁之一，文本可以说从头机翻到尾，漏翻问题也不少(多为对话选项)，N多图片需要汉化但全都没整(菜单界面、游戏设置等)，就本补丁目前的汉化质量而言，我肯定是不会再多花时间在这上面了，只能说确实能玩如果你不介意机翻的话。
 
 ***
 
 # :o:补丁介绍
 本补丁汉化范围为Season1全内容([College Kings - Act I](https://store.steampowered.com/app/1463120)，[College Kings - Act II](https://store.steampowered.com/app/1624520)，[College Kings - Act III](https://store.steampowered.com/app/1732640))
-<br>Season1汉化文件取自
+<br>Season1汉化文件取自百宝袋汉化组(也许)，实际我也不确定，目前看似乎不少不同版本的使用的都是此版汉化文本
 <br><br><br>
 **:heavy_check_mark:解锁Steam成就**
 - 理论全可解，但没打全成就故不确定，如有发现解不了的请留言告知我。
