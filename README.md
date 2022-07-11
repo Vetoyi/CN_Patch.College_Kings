@@ -42,18 +42,21 @@
 **具体步骤：**
 
 **<details><summary>1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/1.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/2.jpg)</details>
 
 **<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出该游戏的本地文件夹；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)</details>
 
 **<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹，在跳出提示框后选择替换所有文件；</summary>**
+>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
-**<details><summary>4. 进入游戏，如上述步骤操作均正确，则进游戏已汉化成功。
+**4. 进入游戏，如上述步骤操作均正确，则进游戏已汉化成功。**
 
 ***
 
@@ -63,7 +66,7 @@
 > 1. 根据[目录“(必读)如何使用补丁”]()正确解压最新汉化补丁，别把文件放错位置，否则你可能会报错连游戏都打不开；
 > 
 > 2. 如果你无法确认自己Steam上该游戏的本地文件夹中是否有其它汉化残留文件，请删除该游戏文件夹中的所有文件，重新下载游戏并安装本补丁(能确认则直接安装补丁即可)；
->>下图仅为Being A DIK游戏本地文件夹举例，请结合实际根据补丁&游戏进行调整
+>>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
 >>![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/01.jpg)
 > 3. 以上两步骤均完成后，进游戏则应已有汉化，如为第一次使用本汉化补丁，切勿直接载入其它来源的旧档，否则易导致汉化不全、报错等问题，要载也只能是以本汉化进行游玩的存档，或者原版游玩的英语存档(但会导致汉化不全)，建议以新游戏开始游玩，享受较全面的汉化体验。</details>
 
