@@ -44,8 +44,8 @@
 <br>适配Steam版本：1.1.2S(最新：2022.07.12)
 <br>解压码：
 <br>下载地址：[百度网盘(提取码)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
-<br>补丁安装：[目录“(必读)如何使用补丁]()”
-<br>汉化报错等问题：[目录“补丁快速Q&A”]()
+<br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
+<br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
 
 ***
@@ -75,7 +75,7 @@
 # :o:补丁快速Q&A
 **<details><summary>:red_circle:Q：为什么我解压完后进游戏却没汉化或只有部分汉化甚至报错、打不开游戏？</summary>**
 > :green_circle:A：确认是否完成以下所有操作，如果全部都做到却还不行，再留言反馈：
-> 1. 根据[目录“(必读)如何使用补丁”]()正确解压最新汉化补丁，别把文件放错位置，否则你可能会报错连游戏都打不开；
+> 1. 根据[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)正确解压最新汉化补丁，别把文件放错位置，否则你可能会报错连游戏都打不开；
 > 
 > 2. 如果你无法确认自己Steam上该游戏的本地文件夹中是否有其它汉化残留文件，请删除该游戏文件夹中的所有文件，重新下载游戏并安装本补丁(能确认则直接安装补丁即可)；
 >>下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
@@ -111,5 +111,3 @@
 # :o:补丁更新记录
 **<details><summary>:beginner:2022.07.12_CK.CN_Ver0.01.GameVer1.1.2S</summary>**
 - 首次发布补丁</details>
-
-***
