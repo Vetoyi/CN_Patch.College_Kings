@@ -48,7 +48,7 @@
 
 **<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出该游戏的本地文件夹；</summary>**
 >下图仅为举例，请结合实际根据补丁汉化的游戏进行调整
-> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
+> <br>![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)</details>
 
 **<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹，在跳出提示框后选择替换所有文件；</summary>**
