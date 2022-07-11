@@ -42,7 +42,7 @@
 **更新时间：2022.07.12
 <br>补丁版本：0.01
 <br>适配Steam版本：1.1.2S(最新：2022.07.12)
-<br>解压码：
+<br>解压码：vetoy
 <br>下载地址：[百度网盘(提取码)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
