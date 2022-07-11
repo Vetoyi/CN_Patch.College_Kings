@@ -29,7 +29,7 @@
 # :o:补丁下载
 **更新时间：2022.07.12
 <br>补丁版本：0.01
-<br>适配Steam版本：1.1.2S(最新：2022.05.22)
+<br>适配Steam版本：1.1.2S(最新：2022.07.12)
 <br>解压码：
 <br>下载地址：[百度网盘(提取码)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)]()
 <br>补丁安装：[目录“(必读)如何使用补丁]()”
@@ -45,11 +45,11 @@
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/1.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/2.jpg)</details>
 
-**<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出游戏文件夹(College Kings)；</summary>**
+**<details><summary>2. 在steam库中找到该游戏→右键→属性→本地文件→浏览，弹出该游戏的本地文件夹；</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/3.jpg)
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/4.jpg)</details>
 
-**<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹(College Kings)，在跳出提示框后选择替换所有文件；</summary>**
+**<details><summary>3. 将最终压缩包中的2个文件夹(game，renpy)，解压至**第2步**弹出的游戏文件夹，在跳出提示框后选择替换所有文件；</summary>**
 > ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/5.jpg)
 </details>
 
