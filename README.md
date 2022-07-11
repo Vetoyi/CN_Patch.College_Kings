@@ -88,7 +88,7 @@
 
 **<details><summary>:red_circle:Q：为什么我在游戏里按任何按键都没有反应？</summary>**
 > :green_circle:A：你可能开启了中文输入法，请将其关闭并切换保持在英语键盘(如下图所示，没有请自行百度)；如果你没有也不愿意装英语键盘，请试着把你的输入法状态调整为英语，再进游戏也许能正常按按键键，但如果不行请花时间研究一下英语键盘。</details>
->> ![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/03.jpg)</details>
+>![image](https://github.com/Vetoyi/CN_Patch.Being_A_DIK/blob/main/%E8%A1%A5%E4%B8%81%E5%BF%AB%E9%80%9FQ%26A/03.jpg)</details>
 
 **<details><summary>:red_circle:Q：下载好补丁压缩包后，里面那个文件要怎么打开？</summary>**
 > :green_circle:A：百度“如何更改文件扩展名”，学会之后将下载好的补丁压缩包里的文件的扩展名改为rar，并对其再次解压得到最终压缩包；如果你连压缩包都打不开，请百度并下载个压缩包软件。</details>
