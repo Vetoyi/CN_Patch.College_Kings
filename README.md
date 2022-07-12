@@ -1,3 +1,4 @@
+![image](https://github.com/Vetoyi/CN_Patch.College_Kings/blob/main/%E5%B0%81%E9%9D%A2(College%20Kings).jpg)
 # <p align="center">:video_game:College Kings</p>
 **<p align="center">:cn:：学校列王／学校霸主</p>**
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
