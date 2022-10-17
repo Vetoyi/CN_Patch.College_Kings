@@ -45,7 +45,7 @@
 <br>适配Steam版本：1.1.2S(最新：2022.05.22)
 <br>解压码：vetoy
 <br>2022.10.18注：我已经知道游戏版本更新了，最近比较忙，晚几天再更适配补丁，后面有空了可能会完善一些汉化边角料，主剧情依旧只会是现在的机翻，别指望什么精翻飞升哈。
-<br>下载地址：[百度网盘(提取码r766)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
+<br>下载地址：[百度网盘(提取码r766)](https://pan.baidu.com/s/1pA3wYfljY8nyPFzo72aBmA)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
