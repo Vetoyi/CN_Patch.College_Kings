@@ -13,7 +13,7 @@
 ***
 
 # :o:补丁介绍
-本补丁汉化范围为Season1全内容([College Kings - Act I](https://store.steampowered.com/app/1463120)，[College Kings - Act II](https://store.steampowered.com/app/1624520)，[College Kings - Act III](https://store.steampowered.com/app/1732640))。
+本补丁汉化范围为[College Kings - The Complete Season](https://store.steampowered.com/app/1463120)。
 <br>Season1汉化文件也许取自百宝袋汉化组，主要该文本我在几个不同的地方都见过故不好判断实际来源。
 <br>汉化文本机翻痕迹较重，漏翻问题也不少(多为对话选项)，N多图片需要汉化但全都没整(菜单界面、游戏设置等)，就本补丁目前汉化质量而言，我肯定是不会再多花时间在这上面了，只能说确实能玩如果你不介意机翻的话。
 <br><br><br>
