@@ -44,10 +44,9 @@
 # :o:补丁下载
 **更新时间：2022.10.22
 <br>补丁版本：0.04
-<br>适配Steam版本：1.2.5s(最新：2022.10.18)
+<br>适配Steam版本：1.2.6s(最新：2022.10.22)
 <br>解压码：vetoy
 <br>下载地址：[百度网盘(提取码kjgq)](https://pan.baidu.com/s/1P2n20iRbJcu_njvZXvLw5A)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
-<br>注：整蛊！又更新到1.2.6s了！真是有够麻的。
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
@@ -113,14 +112,15 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:beginner:2022.10.22_CK.CN_Ver0.04.GameVer1.2.5s</summary>**
+**<details><summary>:beginner:2022.10.22_CK.CN_Ver0.04.GameVer1.2.6s</summary>**
+- 适配1.2.6s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错)
 - 已修复bug：无法加载0.01汉化存档&原版存档。
    - 使用0.03汉化补丁会导致无法加载0.01汉化存档&原版存档，只能重新玩。
    - 使用0.04汉化补丁即可解决该bug，**但会导致无法加载0.03汉化存档**。</details>
 
 **<details><summary>:beginner:2022.10.20_CK.CN_Ver0.03.GameVer1.2.5s</summary>**
 >**题外话：**<br>开发商新建了中文语言相关文件(并未翻译)，也许是有翻译打算吧但不好说，也不排除同样只是机翻毕竟精翻估计猴年马月了，大家不必抱有过高期望以免最后扫兴。
-- 适配1.2.5s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错，本想全部校对完结果看了下代码量只能说摸了)
+- 适配1.2.5s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错)
 - 修改/补翻所有人名。<br>(大体均已最终确定，部分我暂不清楚人物性别/出现场景的也先翻了，以后会再更新确立最终人名)
 - 修改/补翻极少处翻译。</details>
 
