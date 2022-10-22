@@ -40,11 +40,11 @@
 ***
 
 # :o:补丁下载
-**更新时间：2022.10.20
-<br>补丁版本：0.03
+**更新时间：2022.10.22
+<br>补丁版本：0.04
 <br>适配Steam版本：1.2.5s(最新：2022.10.18)
 <br>解压码：vetoy
-<br>下载地址：[百度网盘(提取码j8wx)](https://pan.baidu.com/s/1XD3f6DeQnStGjUYCPIARbg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
+<br>下载地址：[百度网盘(提取码kjgq)](https://pan.baidu.com/s/1P2n20iRbJcu_njvZXvLw5A)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
 <br>题外话：开发商新建了中文语言相关文件(并未翻译)，也许是有翻译打算吧但不好说，也不排除同样只是机翻毕竟精翻估计猴年马月了，大家不必抱有过高期望以免最后扫兴。
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
@@ -111,6 +111,9 @@
 ***
 
 # :o:补丁更新记录
+**<details><summary>:beginner:2022.10.22_CK.CN_Ver0.04.GameVer1.2.5s</summary>**
+- 已修复bug：无法加载旧汉化存档&原版存档，提示报错不可兼容。<br>使用0.03汉化补丁会导致游戏内无法加载0.01汉化存档&原版存档，均提示报错不可兼容，只能重新玩。<br>0.04汉化补丁已修复该bug，0.01汉化存档或原版存档均可正常加载，并且0.04汉化存档在卸载0.04汉化补丁后，依旧可通过原版正常游玩。<注>修复该bug会导致0.03汉化存档无法加载，提示报错不可兼容，只能重新玩或者使用0.01汉化存档&原版存档></details>
+
 **<details><summary>:beginner:2022.10.20_CK.CN_Ver0.03.GameVer1.2.5s</summary>**
 >**题外话：**<br>开发商新建了中文语言相关文件(并未翻译)，也许是有翻译打算吧但不好说，也不排除同样只是机翻毕竟精翻估计猴年马月了，大家不必抱有过高期望以免最后扫兴。
 - 适配1.2.5s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错，本想全部校对完结果看了下代码量只能说摸了)
