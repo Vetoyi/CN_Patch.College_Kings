@@ -45,7 +45,7 @@
 **更新日期：2022.10.22
 <br>补丁版本：0.04
 <br>适配Steam版本：1.2.6s
-<br>适配Depots Update：2022.10.22
+<br>适配Depots Update：2022.10.22 (22 October 2022 – 13:55:42 UTC)
 <br>检查Depots Update：[Season1](https://steamdb.info/depot/1463121/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码kjgq)](https://pan.baidu.com/s/1P2n20iRbJcu_njvZXvLw5A)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
