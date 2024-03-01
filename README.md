@@ -15,6 +15,7 @@
 本补丁汉化范围为[College Kings - The Complete Season](https://store.steampowered.com/app/1463120)。
 <br><br>Season1汉化文本由GPT3.5AI翻译，我目前只做了微调与补翻，大概除了教程外其它均已被汉化覆盖得差不多了。
 <br><br>2024虽然用上了AI汉化但暂且还是别妄想能等同精翻，只能说整体上会比以前纯机翻稍微好点，N多图片需要汉化依旧全都没整(菜单界面、UI按钮等)，本补丁主打一个能玩就行，追求高汉化质量那么你可能会失望，我也不想花时间在追求精翻上面。
+<br><br>刚逛了下Steam讨论板块，忽然发现原来开发组确实有做[官方汉化](https://github.com/College-Kings/college-kings-translations/tree/main/chinese)，就是不知道什么时候能落实到游戏里，文本质量浅看了下似乎挺可以，本补丁并没有用到官方的汉化文本，期待官方汉化质量的话可以去用看看，对Steam最新版本适配性未知我没用过。
 <br><br><br>
 **:heavy_check_mark:解锁Steam成就**
 - 理论全可解，但没打全成就故不确定，如有发现解不了的请留言告知我。
