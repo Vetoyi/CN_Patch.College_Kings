@@ -14,8 +14,8 @@
 
 # :o:补丁介绍
 本补丁汉化范围为[College Kings - The Complete Season](https://store.steampowered.com/app/1463120)。
-<br>Season1汉化文件也许取自百宝袋汉化组，主要该文本我在几个不同的地方都见过故不好判断实际来源。
-<br>汉化文本机翻痕迹较重，漏翻问题也不少(多为对话选项)，N多图片需要汉化但全都没整(菜单界面、游戏设置等)，就本补丁目前汉化质量而言，我肯定是不会再多花时间在这上面了，只能说确实能玩如果你不介意机翻的话。
+<br>Season1汉化文本由GPT3.5AI翻译，我目前只做了微调与补翻，大概除了教程外其它都已被汉化覆盖。
+<br>2024虽然用上了AI汉化但暂且还是别妄想能等同精翻，只能说整体上会比以前纯机翻稍微好点，N多图片需要汉化依旧全都没整(菜单界面、UI按钮等)，本补丁主打一个能玩就行，追求高汉化质量那么你可能会失望，我也不想花时间在追求精翻上面。
 <br><br><br>
 **:heavy_check_mark:解锁Steam成就**
 - 理论全可解，但没打全成就故不确定，如有发现解不了的请留言告知我。
@@ -24,7 +24,10 @@
 - 存档节点或不一致，进度会倒退一些或保持原样，少数情况下可能报错(不确定)，盗版不通用。
 
 **:heavy_check_mark:目前已知bug(如有额外发现请反馈)**
-- 实为游戏bug：Kiwii查看艾米丽复合帖子后剧情停滞。
+- (1.4.6版)实为游戏bug：无法加载存档
+   - 报告情况：和汉化补丁没有关系，是开发组一直更新游戏更出来的bug。
+   - 解决方案：等开发组更新解决。
+- (1.2.6s版)实为游戏bug：Kiwii查看艾米丽复合帖子后剧情停滞。
    - 报告情况：经原版测试仍有该问题，故推断和汉化补丁没有关系。
    - 解决方案：Kiwii互动全部结束后存档，并读取该存档，剧情进度则会自动跳转至后续。
 
@@ -42,13 +45,13 @@
 ***
 
 # :o:补丁下载
-**更新日期：2022.10.22
-<br>补丁版本：0.04
-<br>适配Steam版本：1.2.6s
-<br>适配Depots Update：2022.10.22 (22 October 2022 – 13:55:42 UTC)
+**更新日期：2024.03.01
+<br>补丁版本：0.05
+<br>适配Steam版本：1.4.6
+<br>适配Depots Update：2024.02.29 (29 February 2024 – 06:14:39 UTC)
 <br>检查Depots Update：[[Game]Season1](https://steamdb.info/depot/1463121/manifests/)
 <br>解压密码：vetoy
-<br>补丁下载：[百度网盘(提取码kjgq)](https://pan.baidu.com/s/1P2n20iRbJcu_njvZXvLw5A)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
+<br>补丁下载：[百度网盘(提取码)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.College_Kings#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.College_Kings#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
@@ -114,6 +117,10 @@
 ***
 
 # :o:补丁更新记录
+**<details><summary>:beginner:2024.03.01_CK.CN_Ver0.05.GameVer1.4.6</summary>**
+- 适配1.4.6游戏版本，所有文件完成代码更新的校对跟进。<br>
+- 所有文本使用GPT3.5AI翻译重新汉化，并再做进一步微调与补翻</details>
+
 **<details><summary>:beginner:2022.10.22_CK.CN_Ver0.04.GameVer1.2.6s</summary>**
 - 适配1.2.6s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错)
 - 已修复bug：无法加载0.01汉化存档&原版存档。
