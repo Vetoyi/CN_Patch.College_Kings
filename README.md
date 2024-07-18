@@ -45,10 +45,10 @@
 ***
 
 # :o:补丁下载
-**更新日期：2024.03.01
-<br>补丁版本：0.05
-<br>适配Steam版本：1.4.6 ~ 1.4.7
-<br>适配Depots Update：2024.03.01 (1 March 2024 – 21:56:41 UTC)
+**更新日期：2024.07.19
+<br>补丁版本：0.06
+<br>适配Steam版本：1.4.18
+<br>适配Depots Update：2024.06.23 (23 June 2024 – 16:10:51 UTC)
 <br>检查Depots Update：[[Game]Season1](https://steamdb.info/depot/1463121/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码w8hc)](https://pan.baidu.com/s/1sQgX58Bzo62nOznccBFbHA)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.College_Kings/releases)
@@ -117,23 +117,30 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:beginner:2024.03.01_CK.CN_Ver0.05.GameVer1.4.X</summary>**
+**<details><summary>:beginner:2024.07.19_CKS1.CN_Ver0.06.GameVer1.4.18</summary>**
+> **0.06版汉化补丁更新前言：**<br>根据观察游戏目录文件，发现开发组已添加了多个简体中文字体文件，或许官方中文终于要来了？
+- 适配1.4.18 ~ ?游戏版本，所有文件完成代码更新的校对跟进。<br>
+- 请先删除游戏目录内所有旧版汉化补丁文件，并用Steam验证游戏完整性后再安装新版补丁。
+- 每次运行游戏默认启用简体中文，游戏设置的语言选项内可以临时切换英文/中文选项。如果补丁安装完成后发现汉化不全(仅人名汉化等)，可以来回切换语言解决。
+- 如若载入游戏存档出现报错问题，是由于游戏长期更新导致不兼容旧存档，与汉化补丁无关。</details>
+
+**<details><summary>:beginner:2024.03.01_CKS1.CN_Ver0.05.GameVer1.4.X</summary>**
 > **0.05版汉化补丁更新前言：**<br>为尽量避免CK持续更新导致汉化补丁再度失效无法使用，本次0.05版汉化补丁更新对汉化文件进行了部分调整，短期内基本可以保证之后CK持续更新的同时0.05汉化补丁依旧可用。
 - 适配1.4.6 ~ 1.4.7游戏版本，所有文件完成代码更新的校对跟进。<br>
 - 所有文本使用GPT3.5AI翻译重新汉化，并再做进一步微调与补翻
 - 每次运行游戏默认启用简体中文，游戏设置的语言选项内可以临时切换英文/中文选项。</details>
 
-**<details><summary>:beginner:2022.10.22_CK.CN_Ver0.04.GameVer1.2.6s</summary>**
+**<details><summary>:beginner:2022.10.22_CKS1.CN_Ver0.04.GameVer1.2.6s</summary>**
 - 适配1.2.6s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错)
 - 已修复bug：无法加载0.01汉化存档&原版存档。
    - 使用0.03汉化补丁会导致无法加载0.01汉化存档&原版存档，只能重新玩。
    - 使用0.04汉化补丁即可解决该bug，**但会导致无法加载0.03汉化存档**。</details>
 
-**<details><summary>:beginner:2022.10.20_CK.CN_Ver0.03.GameVer1.2.5s</summary>**
+**<details><summary>:beginner:2022.10.20_CKS1.CN_Ver0.03.GameVer1.2.5s</summary>**
 >**题外话：**<br>开发商新建了中文语言相关文件(并未翻译)，也许是有翻译打算吧但不好说，也不排除同样只是机翻毕竟精翻估计猴年马月了，大家不必抱有过高期望以免最后扫兴。
 - 适配1.2.5s游戏版本，tl翻译仅部分文件完成代码更新的校对跟进。<br>(不影响游玩&不会报错)
 - 修改/补翻所有人名。<br>(大体均已最终确定，部分我暂不清楚人物性别/出现场景的也先翻了，以后会再更新确立最终人名)
 - 修改/补翻极少处翻译。</details>
 
-**<details><summary>:beginner:2022.07.12_CK.CN_Ver0.01.GameVer1.1.2s</summary>**
+**<details><summary>:beginner:2022.07.12_CKS1.CN_Ver0.01.GameVer1.1.2s</summary>**
 - 首次发布补丁</details>
